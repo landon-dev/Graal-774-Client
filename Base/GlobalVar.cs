@@ -21,7 +21,7 @@ namespace Graal_774_Client.Base
             public class Discord
             {
                 public static string state;
-                public static string id = "685272741095669797";
+                public static string id = "lol";
                 public static string user = "";
                 public static string avatar = "";
                 public static string largeImg = "logo";
